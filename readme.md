@@ -1,4 +1,4 @@
-# Lab 3 - Linked lists
+# Lab 3
 ## Objective
 
 The task is to create a new file, named `output_dictionary.txt` which contains the frequencies of each word met in the input text file. The `input_text.txt` is a non-empty text file, it is also assumed that each word is separated via whitespaces. So words like "isn't" is count as 1 word.
